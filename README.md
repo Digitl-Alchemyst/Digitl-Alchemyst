@@ -20,7 +20,7 @@
 
 </p>
 
-<div style="color: white; padding: 10px;">
+<div style="backgorundColor: white; padding: 10px;">
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left", style="background-color: #4d4d4d; padding: 10px;">
