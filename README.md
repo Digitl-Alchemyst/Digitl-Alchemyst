@@ -1,3 +1,9 @@
+ <style>
+ .custom-div {
+    background-color: #3c3c3c;
+  }
+</style>
+
 ![header](./header.jpg)
 
 <h1>Digitl Alchemyst</h1>
@@ -20,7 +26,7 @@
 
 </p>
 
-<div style="backgorundColor: white; padding: 10px;">
+<div class="custom-div">
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left", style="background-color: #4d4d4d; padding: 10px;">
