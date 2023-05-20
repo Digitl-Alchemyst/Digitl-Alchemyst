@@ -48,7 +48,7 @@
 <br/>
 
 <div style="display: flex;">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Digitl-Alchemyst&theme=react&show_icons=true&hide_border=true&count_private=true" />
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Digitl-Alchemyst&theme=react&hide_border=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digitl-Alchemyst&theme=react&show_icons=true&hide_border=true&layout=donut&count_private=true" />
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Digitl-Alchemyst&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Digitl-Alchemyst&theme=tokyonight&hide_border=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digitl-Alchemyst&theme=tokyonight&show_icons=true&hide_border=true&layout=donut&count_private=true" />
 </div>
