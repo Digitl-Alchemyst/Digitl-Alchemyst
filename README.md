@@ -1,6 +1,6 @@
 
 
-![header](./header.jpg)
+![header](./Digital Alchemist Studios.png)
 
 <h1>Digitl Alchemyst</h1>
 <h2>Digital Alchemyst Studios</h2>
