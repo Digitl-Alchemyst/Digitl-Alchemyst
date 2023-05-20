@@ -6,9 +6,8 @@
 
 - 🔭 I’m currently working on something awesome 🔥😎
 
-- 🌱 I’m currently learning **React, Express, NodeJs**
+- 🌱 I’m currently learning **MongoDB, Express, React, NodeJs**
 
-https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
