@@ -6,7 +6,9 @@
 <h2>Digital Alchemyst Studios</h2>
 <h3>Full Stack Java Script Developer</h3>
 
-- 🔭 I’m currently working on something awesome 🔥😎
+- 📚 I am self taught learning through reading open source code & free online training
+
+- 🔭 I’m currently working on a Full Stack business managment application with AI intergration 🔥😎
 
 - 🌱 I’m currently learning **MongoDB, Express, React, NodeJs**
 
