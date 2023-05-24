@@ -2,8 +2,8 @@
 
 ![header](./header.jpg)
 <br>
-[![Discord](https://img.shields.io/discord/745037351163527189?color=blueviolet&logo=discord)](https://discord.gg/aDumcW6ESB)
-[![Discord](https://img.shields.io/discord/745037351163527189?color=blueviolet&logo=discord)](https://discord.com/invite/APGC3k5yaH)
+[![Discord](https://img.shields.io/discord/1110703957640220777?color=purple&label=discord&logo=discord&style=plastic)](https://discord.gg/aDumcW6ESB)
+
 <br>
 <h1>Digitl Alchemyst</h1>
 <h2>Digital Alchemyst Studios</h2>
