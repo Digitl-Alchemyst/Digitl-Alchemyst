@@ -2,7 +2,7 @@
 
 ![header](./header.jpg)
 <br>
-![jhd](./JHD.png)
+![jhd](./JHD.jpg)
 <br>
 [![Discord](https://img.shields.io/discord/1110703957640220777?color=purple&label=discord&logo=discord&style=plastic)](https://discord.gg/aDumcW6ESB)
 
