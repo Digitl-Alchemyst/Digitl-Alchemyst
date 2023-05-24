@@ -1,7 +1,10 @@
 
 
 ![header](./header.jpg)
-
+<br>
+[![Discord](https://img.shields.io/discord/745037351163527189?color=blueviolet&logo=discord)](https://discord.gg/aDumcW6ESB)
+[![Discord](https://img.shields.io/discord/745037351163527189?color=blueviolet&logo=discord)](https://discord.com/invite/APGC3k5yaH)
+<br>
 <h1>Digitl Alchemyst</h1>
 <h2>Digital Alchemyst Studios</h2>
 <h3>Full Stack Java Script Developer</h3>
