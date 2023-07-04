@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on a Full Stack business managment application with AI intergration 🔥😎
 
-- 🌱 I’m currently learning **MongoDB, Express, React, NodeJs**
+- 🌱 I’m currently learning ** Next.js, Appwrite, Firebase/Googel Cloud, MongoDB, Express, React, NodeJs**
 
 
 <h3 align="left">Connect with me:</h3>
