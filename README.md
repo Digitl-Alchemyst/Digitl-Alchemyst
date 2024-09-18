@@ -1,11 +1,11 @@
-# 🌟 Welcome to my Github! 🚀
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Digitl-Alchemyst&label=Profile%20views&color=0e75b6&style=flat" alt="DigitlAlchemyst" />
-</p>
-
-
 ![header](./header.jpg)
+
+# 🌟 Welcome to my Github! 🚀
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Digitl-Alchemyst&label=Profile%20views&color=0e75b6&style=flat" alt="DigitlAlchemyst" />
+    <a href="https://www.buymeacoffee.com/DigitlAlchemyst"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="" /></a>
+</div>
+<br />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7¢er=true&vCenter=true&width=600&lines=Welcome,+I+am+Steven+Watkins;AKA+Digital+Alchemyst;I+am+a+self+taught+JavaScript+developer)
 
@@ -64,6 +64,8 @@
 
 ## 📊 My GitHub Stats
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <div style="display: flex; flex-direction: column;">
 <div>
 
@@ -79,34 +81,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Digitl-Alchemyst&theme=monokai&row=1&column=8)
 
 ---
 
----
+### 📈 Contributions
 
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Digitl-Alchemyst&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-![Profile views](https://gpvc.arturio.dev/Digitl-Alchemyst)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Digitl-Alchemyst&theme=radical)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github.com/Digitl-Alchemyst/Digitl-Alchemyst/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-### 🔝 Top Contributed Repo
-
-<p>
-    <a href="https://www.buymeacoffee.com/DigitlAlchemyst"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a>
-</p>
+![Snake animation](https://github.com/Digitl-Alchemyst/Digitl-Alchemyst/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -114,6 +97,13 @@
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[Repo1Name]&theme=radical)](https://github.com/[YourGitHubUsername]/[Repo1Name])
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[Repo2Name]&theme=radical)](https://github.com/[YourGitHubUsername]/[Repo2Name])
+
+---
+### 🔝 Top Contributed Repo
+
+
+
+---
 
 ## 🎵 Vibing to
 
