@@ -95,8 +95,9 @@
 
 ### 🌟 Top Projects
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[Repo1Name]&theme=radical)](https://github.com/[YourGitHubUsername]/[Repo1Name])
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[Repo2Name]&theme=radical)](https://github.com/[YourGitHubUsername]/[Repo2Name])
+[![Next Alchemy 14.3 Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=Digitl-Alchemyst&repo=next-alchemy-14.2&theme=radical)](https://github.com/Digitl-Alchemyst/next-alchemy-14.2)
+[![UnTelevised Media](https://github-readme-stats.vercel.app/api/pin/?username=UnTelevised-Media&repo=untelevised-media&theme=radical)](https://github.com/UnTelevised-Media/untelevised-media)
+[![DocBot](https://github-readme-stats.vercel.app/api/pin/?username=Request-for-Dev&repo=docubot&theme=radical)](https://github.com/Request-for-Dev/docubot)
 
 ---
 ### 🔝 Top Contributed Repo
