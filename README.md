@@ -15,13 +15,13 @@
 
 - 🔭 I'm currently working on AI PDF Chatbot
 - 🌱 I'm currently learning Langchain, Pinecone & Supabase w/ Prisma
-- 👯 I'm looking to collaborate on Start-ups that solve real world problems
+- 👯 I'm looking to collaborate on Start-ups that solve real-world problems
 - 🤔 I'm looking for help with a censorship circumvention platform
 - 💬 Ask me about Next.js & Typescript or Sanity.io
-- 📚 I am self taught learning through open source documenation & community involvement
-- ⚡ Fun fact: My first website was a Pokemon fan sitein 1999!
+- 📚 I am self-taught learning through open source documentation & community involvement
+- ⚡ Fun fact: My first website was a Pokemon fan site in 1999!
 
-💙 If you like my projects, Give them ⭐ and Share it with friends!
+💙 If you like my projects, Give them a ⭐ and Share them with friends!
 
 ### 📫 Let's Connect
 
@@ -100,12 +100,7 @@
 [![DocBot](https://github-readme-stats.vercel.app/api/pin/?username=Request-for-Dev&repo=docubot&theme=radical)](https://github.com/Request-for-Dev/docubot)
 
 ---
-### 🔝 Top Contributed Repo
-
-
-
----
 
 ## 🎵 Vibing to
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/[YourSpotifyUsername])
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/06OuLrsfhiRvNpLoenfRtE)
