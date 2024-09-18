@@ -2,8 +2,8 @@
 
 # 🌟 Welcome to my Github! 🚀
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Digitl-Alchemyst&label=Profile%20views&color=0e75b6&style=flat" alt="DigitlAlchemyst" />
-    <a href="https://www.buymeacoffee.com/DigitlAlchemyst"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="" /></a>
+  <img align="left" src="https://komarev.com/ghpvc/?username=Digitl-Alchemyst&label=Profile%20views&color=0e75b6&style=flat" alt="DigitlAlchemyst" />
+    <a href="https://www.buymeacoffee.com/DigitlAlchemyst"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="125" alt="" /></a>
 </div>
 <br />
 
