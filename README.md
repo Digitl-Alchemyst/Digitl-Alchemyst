@@ -89,7 +89,7 @@
 
 ### 📈 Contributions
 
-![Snake animation](https://github.com/Digitl-Alchemyst/Digitl-Alchemyst/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Digitl-Alchemyst/Digitl-Alchemyst/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
