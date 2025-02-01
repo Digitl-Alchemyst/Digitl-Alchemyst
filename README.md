@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on AI PDF Chatbot
+- 🔭 I'm currently working on a Collaborative Dining Out Mobile App [Catch Lunch](https://catch-lunch.com)
 - 🌱 I'm currently learning Langchain, Pinecone & Supabase w/ Prisma
 - 👯 I'm looking to collaborate on Start-ups that solve real-world problems
 - 🤔 I'm looking for help with a censorship circumvention platform
